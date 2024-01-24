@@ -1,11 +1,24 @@
-# PORTFOLIO
-Personal Portfolio of Professional Projects  
+# [Coursera](https://www.coursera.org/)
+This README serves to display what I learned from each course completed with a certificate
+
+## Google Data Analytics Professional Certificate
+1. A
+2. B
+3. C
+
+## Google Advanced Data Analytics Professional Certificate
+1. A
+2. B
+3. C
+
+## Google Cloud Database Engineer Specialization
+1. A
+2. B
+3. C
+
+## Google Business Intelligence Professional Certificate
+1. A
+2. B
+3. C
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-[Publishing Information on GitHub](https://docs.github.com/en/get-started/writing-on-github)  
-
-## Hello World [Python]
-hello_world.py  
-
-## Datetime [Python]
-none  
