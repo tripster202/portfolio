@@ -9,9 +9,9 @@ I'm Trenton Leslie and this is my public portfolio of professional projects. Her
 ### Projects
 - NYC Airbnb Analysis
 ### Certificates
-- [Intro to Programming](https://github.com/tripster202/portfolio/blob/main/Kaggle/Trenton%20Leslie%20-%20Intro%20to%20Programming.png)
-- [Intro to Machine Learning](https://github.com/tripster202/portfolio/blob/main/Kaggle/Trenton%20Leslie%20-%20Intro%20to%20Machine%20Learning.png)
-- [Python](https://github.com/tripster202/portfolio/blob/main/Kaggle/Trenton%20Leslie%20-%20Python.png)
+- [Intro to Programming](https://github.com/tripster202/portfolio/blob/main/Kaggle/Certificate%20-%20Intro%20to%20Programming.png)
+- [Intro to Machine Learning](https://github.com/tripster202/portfolio/blob/main/Kaggle/Certificate%20-%20Intro%20to%20Machine%20Learning.png)
+- [Python](https://github.com/tripster202/portfolio/blob/main/Kaggle/Certificate%20-%20Python.png)
 ## Python
 ### Hello World
 ### Datetime
