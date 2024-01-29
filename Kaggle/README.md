@@ -22,4 +22,11 @@ This README serves to display what I learned from each course completed with a c
 2. B
 3. C
 
+### Data Visualization
+1. A
+2. B
+3. C
+
+![alt text]()
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
