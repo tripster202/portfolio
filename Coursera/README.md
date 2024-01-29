@@ -8,13 +8,13 @@ This README serves to display what I learned from each course completed with a c
 1. Foundations: Data, Data, Everywhere
 2. Ask Questions to Make Data-Driven Decisions
 3. Prepare Data for Exploration
-  1. Google Big Query
-  2. Data
-5. Analyze Data to Answer Questions
-6. Process Data from Dirty to Clean
-7. Data Analysis with R Programming
-8. Share Data Through the Art of Visualization 
-9. Google Data Analytics Capstone: Complete a Case Study
+4. Analyze Data to Answer Questions
+5. Process Data from Dirty to Clean
+6. Data Analysis with R Programming
+7. Share Data Through the Art of Visualization 
+8. Google Data Analytics Capstone: Complete a Case Study
+
+- Google BigQuery
 
 ### Google Advanced Data Analytics Professional Certificate
 1. A
