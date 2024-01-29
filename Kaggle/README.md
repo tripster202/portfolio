@@ -17,6 +17,11 @@ This README serves to display what I learned from each course completed with a c
 2. B
 3. C
 
+### Pandas
+1. A
+2. B
+3. C
+
 ### Intro to Machine Learning
 1. A
 2. B
