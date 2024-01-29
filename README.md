@@ -20,5 +20,6 @@ I'm Trenton Leslie and this is my public portfolio of professional projects. Her
 
 ## Notes
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[About README's](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)  
 [Markdown Editor](https://stackedit.io/app#)  
 [Publishing Information on GitHub](https://docs.github.com/en/get-started/writing-on-github)  
