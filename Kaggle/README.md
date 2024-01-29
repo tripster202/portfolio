@@ -27,6 +27,6 @@ This README serves to display what I learned from each course completed with a c
 2. B
 3. C
 
-![alt text](<Kaggle/Kaggle - Data Visualization Course Overview.png>)
+![alt text](<Kaggle - Data Visualization Course Overview.png>)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
