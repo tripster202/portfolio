@@ -11,21 +11,25 @@ This README serves to display what I learned from each course completed with a c
 1. A
 2. B
 3. C
+![alt text](<Certificate - Intro to Programming.png>)
 
 ### Python
 1. A
 2. B
 3. C
+![alt text](<Certificate - Python.png>)
 
 ### Pandas
 1. A
 2. B
 3. C
+![alt text](<Certificate - Pandas.png>)
 
 ### Intro to Machine Learning
 1. A
 2. B
 3. C
+![alt text](<Certificate - Intro to Machine Learning.png>)
 
 ### Data Visualization
 1. A
