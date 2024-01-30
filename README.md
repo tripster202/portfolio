@@ -2,8 +2,6 @@
 Hello!  
 I'm Trenton Leslie and this is my public portfolio of professional projects. Here I am showcasing my Python proficiency and my studies in data analytics.
 
-[Google Data Analytics - Lessons Learned](https://docs.google.com/document/d/1Zy0RxoF7ucWnpntTn0SKEqCtc6_LsFzMURBRyFaT2uU/edit?usp=sharing)
-
 ## [Coursera](https://www.coursera.org/)
 ### Certificates
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
