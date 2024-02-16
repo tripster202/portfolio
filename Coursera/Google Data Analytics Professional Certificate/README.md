@@ -1,4 +1,4 @@
-### [Google Data Analytics Professional Certificate]([https://www.coursera.org/](https://www.coursera.org/professional-certificates/google-data-analytics)
+### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 This README serves to display what I learned from the Google Data Analytics Professional Certificate on Coursera  
 [Lessons Learned](https://docs.google.com/document/d/1Zy0RxoF7ucWnpntTn0SKEqCtc6_LsFzMURBRyFaT2uU/edit?usp=sharing)
